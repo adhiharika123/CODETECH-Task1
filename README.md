@@ -1,7 +1,3 @@
-# Recipe Website Using Frontend Web Development
-
-## Personal Information
-
 **Name:** ADHI HARIKA  
 **Company:** CODETECH IT SOLUTIONS  
 **ID:** CT08DS6584  
@@ -10,7 +6,7 @@
 
 ## Overview of the Project
 
-### Project Description
+### Project Description:Recipe Website Using Frontend Web Development
 
 The Recipe Website Using Frontend Web Development project is designed to showcase skills in creating an interactive and visually appealing website focused on recipes. The website will feature:
 
