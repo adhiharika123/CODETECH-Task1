@@ -1,6 +1,3 @@
-<h1 style="font-size:28px;">Recipe Website Using Frontend Web Development</h1>
-
-<h2 style="font-size:22px;">Personal Information</h2>
 
 <p><strong style="font-size:18px;">Name:</strong> ADHI HARIKA</p>
 <p><strong style="font-size:18px;">Company:</strong> CODETECH IT SOLUTIONS</p>
@@ -10,7 +7,7 @@
 
 <h2 style="font-size:22px;">Overview of the Project</h2>
 
-<h3 style="font-size:20px;">Project Description</h3>
+<h3 style="font-size:20px;">Project:Recipe Website Using Frontend Web Development</h3>
 
 <p>The Recipe Website Using Frontend Web Development project is designed to showcase skills in creating an interactive and visually appealing website focused on recipes. The website will feature:</p>
 
