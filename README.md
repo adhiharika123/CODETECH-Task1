@@ -27,3 +27,8 @@ The Recipe Website Using Frontend Web Development project is designed to showcas
 - **Build a Functional Recipe Website:** To create a fully functional website that users can navigate easily to find and view recipes.
 - **Enhance Frontend Skills:** To improve skills in HTML, CSS, and JavaScript through practical application.
 - **Responsive Design:** To ensure the website is accessible on various devices and screen sizes.
+
+### Outputs(Sreenshots)
+![Screenshot (83)](https://github.com/user-attachments/assets/76279472-b079-4e04-bf2c-3995fb2f45ab)
+
+
