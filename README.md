@@ -29,6 +29,13 @@ The Recipe Website Using Frontend Web Development project is designed to showcas
 - **Responsive Design:** To ensure the website is accessible on various devices and screen sizes.
 
 ### Outputs(Sreenshots)
+![Screenshot (82)](https://github.com/user-attachments/assets/5fd09b4c-6aff-45eb-bd15-a7ef7dbbf676)
+
 ![Screenshot (83)](https://github.com/user-attachments/assets/76279472-b079-4e04-bf2c-3995fb2f45ab)
+
+![Screenshot (82)](https://github.com/user-attachments/assets/a45c2857-2844-471d-8e0f-cb9658259037)
+
+
+
 
 
