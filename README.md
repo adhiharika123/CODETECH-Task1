@@ -33,7 +33,8 @@ The Recipe Website Using Frontend Web Development project is designed to showcas
 
 ![Screenshot (83)](https://github.com/user-attachments/assets/76279472-b079-4e04-bf2c-3995fb2f45ab)
 
-![Screenshot (82)](https://github.com/user-attachments/assets/a45c2857-2844-471d-8e0f-cb9658259037)
+![Screenshot (85)](https://github.com/user-attachments/assets/8b280b48-44ce-4d5e-81a7-703bdfaa7356)
+
 
 
 
